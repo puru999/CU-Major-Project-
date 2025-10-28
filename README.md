@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/sX3K62b.png" width="85%" alt="Fatal Force Data Science Project Banner">
 </p>
 
-<h1 align="center">📊 Socioeconomic Drivers of City-Level Police Fatality Rates in the United States (2015–2024)</h1>
+<h1 align="center"> Socioeconomic Drivers of City-Level Police Fatality Rates in the United States (2015–2024)</h1>
 
 <p align="center">
   <b>M.Sc. Data Science – Chandigarh University</b><br>
@@ -32,11 +32,11 @@ Each folder contains **Jupyter Notebooks (`.ipynb`)** and **datasets (`.csv`)** 
 
 ##  **Repository Access**
 All project folders and files are publicly available here:  
-👉 [**GitHub Repository – CU Major Project**](https://github.com/puru999/CU-Major-Project-)
+ [**GitHub Repository – CU Major Project**](https://github.com/puru999/CU-Major-Project-)
 
 ---
 
-## ⚙️ **How to Download and Run**
+##  **How to Download and Run**
 1. Open the link above.  
 2. Click **Code → Download ZIP**.  
 3. Extract to your desktop.  
@@ -45,7 +45,7 @@ All project folders and files are publicly available here:
 
 ---
 
-## 🚀 **Recommended Execution Order**
+##  **Recommended Execution Order**
 
 | Step | Module | Description |
 |------|---------|-------------|
