@@ -13,7 +13,7 @@
 
 ---
 
-## 📂 **Folder Structure**
+##  **Folder Structure**
 Major_Project_Final/
 │
 ├── All Project Files/
@@ -30,7 +30,7 @@ Each folder contains **Jupyter Notebooks (`.ipynb`)** and **datasets (`.csv`)** 
 
 ---
 
-## 🌐 **Repository Access**
+##  **Repository Access**
 All project folders and files are publicly available here:  
 👉 [**GitHub Repository – CU Major Project**](https://github.com/puru999/CU-Major-Project-)
 
@@ -58,8 +58,8 @@ All project folders and files are publicly available here:
 
 ---
 
-## 🧠 **Project Summary**
-This project integrates **The Washington Post’s Fatal Force dataset (2015–2024)** with **U.S. Census Bureau socioeconomic indicators (2023 ACS)** to examine how **income, poverty, education, and racial composition** correlate with **police-involved fatalities** at the city level.  
+##  **Project Summary**
+This project integrates **The Washington Post’s Fatal Force dataset (2015–2024)** with **U.S. Census Bureau socioeconomic indicators (2024 ACS)** to examine how **income, poverty, education, and racial composition** correlate with **police-involved fatalities** at the city level.  
 The analysis includes:
 
 - SQL-based data warehousing and indexing  
@@ -69,13 +69,13 @@ The analysis includes:
 
 ---
 
-## 🙏 **Acknowledgement**
+##  **Acknowledgement**
 This project was independently completed by **Purushottam Phuyal** as part of the **M.Sc. Data Science Major Project**, guided through  
 **Dr. Angela Yu’s 100 Days of Code – Python Bootcamp (Udemy)** and **Sumitra Simkhada** for methodological support.
 
 ---
 
-## 📜 **Usage**
+##  **Usage**
 This repository is intended for **academic, research, and continuous learning** purposes only.  
 If you reuse or cite this project, please include attribution and cite the data sources appropriately.
 
