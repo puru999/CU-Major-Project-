@@ -11,24 +11,7 @@
   <b>Assisted By:</b> Sumitra Simkhada (Methodological Guidance)
 </p>
 
----
 
-##  **Folder Structure**
-Major_Project_Final/
-│
-├── All Project Files/
-│ ├── API/
-│ ├── Census Data Collection/
-│ ├── SQL Data Warehouse/
-│ ├── Data Analysis with Python/
-│ ├── Data Analysis and Visualization with Python/
-│ └── Machine Learning Model/
-│
-├── Final_Report.docx
-└── Major_Project_README.docx
-Each folder contains **Jupyter Notebooks (`.ipynb`)** and **datasets (`.csv`)** specific to that analysis phase.
-
----
 
 ##  **Repository Access**
 All project folders and files are publicly available here:  
